@@ -1,0 +1,4 @@
+[submodule "submodules/mscomponents"]
+	path = submodules/mscomponents
+	url = git@git.tele5.int:MSComponents
+	branch = dev
